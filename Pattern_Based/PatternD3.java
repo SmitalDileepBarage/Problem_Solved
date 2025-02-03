@@ -3,7 +3,7 @@
       1 	1
       1 	2	  1
       1		3	  3	    1
-      1     5     10    10    1
+      1         5         10        10    1
       
       its pattern of CnK series{CnK=CnC-k}
  * */
