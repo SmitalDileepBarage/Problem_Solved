@@ -1,9 +1,9 @@
 /*
- 
-  1                                     1
-  1		2                       2         1
-  1		2	  3             3         2       1
-  1		2	  3		4	  3	  2	1
+  1
+  1             2                       
+  1		2         3               
+  1		2	  3         4
+  1		2	  3	    4	      5
   */
 
 
@@ -13,7 +13,7 @@ package Interview_basic.patterns;
 
 import java.util.Scanner;
 
-public class PAtternD6 {
+public class PatternD6 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
