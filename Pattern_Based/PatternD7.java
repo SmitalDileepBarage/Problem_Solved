@@ -1,3 +1,15 @@
+/*
+			*	
+			*	*	
+			*	*	*	
+*	*	*	*	*	*	*	
+			*	*	*	
+			*	*	
+			*	
+
+
+*/
+
 package Interview_basic.patterns;
 
 import java.util.Scanner;
